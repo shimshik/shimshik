@@ -3,6 +3,7 @@
 A third-year bachelor's student at the Bonch-Bruevich St. Petersburg State University of Telecommunications and Telecommunications (SPbSUT) majoring in Communication Networks and Data Transmission. A budding QA engineer, he has personally described the basic components of microprocessor devices in software and successfully developed finite state machines based on them.
 
 Skills:
+
 ![github](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) Jira
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) Java  
