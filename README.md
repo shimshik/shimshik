@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, My name is Shimshik
+####  Student of network technologies and communications, aspiring QA engineer.
+A third-year bachelor's student at the Bonch-Bruevich St. Petersburg State University of Telecommunications and Telecommunications (SPbSUT) majoring in Communication Networks and Data Transmission. A budding QA engineer, he has personally described the basic components of microprocessor devices in software and successfully developed finite state machines based on them.
 
-<!--
-**shimshik/shimshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: 	![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)Jira / Java / Swagger / Postman / MySQL / GitHub
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
