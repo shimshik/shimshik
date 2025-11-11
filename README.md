@@ -18,11 +18,12 @@ Skills:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  GitHub
 
 - 📫 How to reach me:
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @kischmich
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@kishmish](https://t.me/kischmich)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) mikarelsky@gmail.com
 
 
-
+- 🔭 I’m currently working on:
+-  FMS on Verilog [there](https://github.com/shimshik/TRC-on-Verilog) 
 
 
 
