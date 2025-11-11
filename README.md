@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Shimshik
 ####  Student of network technologies and communications, aspiring QA engineer.
+![sut](https://github.com/shimshik/shimshik/blob/main/sut-logo-eng.png)
 A third-year bachelor's student at the Bonch-Bruevich St. Petersburg State University of Telecommunications and Telecommunications (SPbSUT) majoring in Communication Networks and Data Transmission. A budding QA engineer,personally described the basic components of microprocessor devices in software and successfully developed finite state machines based on them.
 
 Skills:
